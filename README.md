@@ -33,7 +33,8 @@ CRM (Front-Office): Customers, Reviews, and Geolocation data.
 
 ERP (Back-Office): Orders, Items, Payments, Products, and Sellers data.
 
-🚀 Key Features
+🚀 Key Features:
+
 End-to-End Automation: A master stored procedure (sp_Run_Medallion_Pipeline) orchestrates the entire data flow.
 
 Error Handling: Implemented TRY...CATCH blocks with a dedicated Error_Logs table for pipeline observability.
