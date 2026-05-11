@@ -1,4 +1,4 @@
-# MEDALLION-ARCHITECTURE-DATA-PIPELINE
+# MEDALLION-DATA WAREHOUSE-PIPELINE
 Building a modern data warehouse with micro soft SQL server, including ETL processes, data modelling, and analytics 
 
 Medallion Data Pipeline: Olist E-Commerce Data Warehouse
