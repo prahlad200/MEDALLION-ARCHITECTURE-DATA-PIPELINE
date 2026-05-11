@@ -41,3 +41,6 @@ End-to-End Automation: A master stored procedure (sp_Run_Medallion_Pipeline) orc
 Error Handling: Implemented TRY...CATCH blocks with a dedicated Error_Logs table for pipeline observability.
 
 Data Quality Framework: Automated checks ensure primary key uniqueness and referential integrity between Fact and Dimension tables.
+
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
