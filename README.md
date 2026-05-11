@@ -5,7 +5,9 @@ Medallion Data Pipeline: Olist E-Commerce Data Warehouse
 📋 Project Overview
 This project implements a modern Medallion Architecture data warehouse using the Olist Brazilian E-Commerce dataset. The pipeline integrates fragmented data from simulated CRM and ERP source systems to create a unified "Customer 360" view. This infrastructure serves as the foundational engineering layer for predictive modeling (Trimester 8) and AI agent deployment (Trimester 9).  
 
-🏗️ Architecture
+🏗️ Architecture :
+<img width="2000" height="980" alt="image" src="https://github.com/user-attachments/assets/c66cec14-62a8-4ff5-aba1-570069f37646" />
+
 The pipeline follows a three-tier Medallion structure to ensure data lineage and quality:
 
 Bronze (Raw Layer): Ingests raw CSV files into SQL staging tables using BULK INSERT. Data is stored in its original form to maintain a permanent audit trail.
@@ -19,10 +21,9 @@ Database: Microsoft SQL Server (SSMS)
 
 Language: T-SQL
 
-
 Documentation: LaTeX (IEEE Format)   
 
-Visualization: Power BI / Looker Studio
+Visualization: Power BI 
 
 Dataset: Olist Brazilian E-Commerce (Kaggle)
 
