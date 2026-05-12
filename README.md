@@ -23,8 +23,6 @@ Language: T-SQL
 
 Documentation: LaTeX (IEEE Format)   
 
-Visualization: Power BI 
-
 Dataset: Olist Brazilian E-Commerce (Kaggle)
 
 📁 Source System Mapping
